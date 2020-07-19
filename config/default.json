@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://devconnector123:devconnector123@mongoose-express-lhkys.mongodb.net/dev-connector?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://devconnector123:devconnector123@mongoose-express-lhkys.mongodb.net/dev-connector?retryWrites=true&w=majority",
+    "jwtSecret": "YOUCANSETTHISTOEVERYOUWANT"
 }
