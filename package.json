@@ -17,6 +17,7 @@
     "gravatar": "^1.8.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.22",
+    "normalize-url": "^5.0.0",
     "request": "^2.88.2"
   },
   "devDependencies": {
