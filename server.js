@@ -6,7 +6,7 @@ const connectDB = require('./config/db')
 connectDB()
 
 // Init Middleware
-app.use(express.json({ extended: false }))
+app.use(express.json())
 
 app.get('/', (req, res) => {
     res.send('Hello from express')
