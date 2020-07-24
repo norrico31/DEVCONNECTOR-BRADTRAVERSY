@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://devconnector123:devconnector123@mongoose-express-lhkys.mongodb.net/dev-connector?retryWrites=true&w=majority",
-    "jwtSecret": "YOUCANSETTHISTOEVERYOUWANT"
+    "jwtSecret": "YOUCANSETTHISTOEVERYOUWANT",
+    "githubClientId": "4f42f2e3f145fb034ccb",
+    "githubSecret": "67999dd85eefaa0e9d4c9bec695fdde94d7f20c9"
 }
